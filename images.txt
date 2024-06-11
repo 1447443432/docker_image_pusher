@@ -11,3 +11,4 @@ centos:7.9.2009
 busybox:latest
 nginx:1.25.4-alpine
 alpine:3.19
+mongoclient/mongoclient:latest
