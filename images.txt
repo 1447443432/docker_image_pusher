@@ -15,3 +15,4 @@ mongoclient/mongoclient:latest
 python:3.12.1-alpine
 python:3.6.15-alpine
 python:3.9-alpine
+frooodle/s-pdf:latest
