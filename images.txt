@@ -1,18 +1,1 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
-mtjaksa/mongodb-compass-with-web-gui:2.0.0
-debian:10
-debian:11
-debian:12
-centos:7.9.2009
-busybox:latest
-nginx:1.25.4-alpine
-alpine:3.19
-mongoclient/mongoclient:latest
-python:3.12.1-alpine
-python:3.6.15-alpine
-python:3.9-alpine
-frooodle/s-pdf:latest
+mongo:4.4.29
