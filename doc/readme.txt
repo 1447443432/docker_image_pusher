@@ -1,0 +1,1 @@
+registry.cn-shanghai.aliyuncs.com/jing-images/
