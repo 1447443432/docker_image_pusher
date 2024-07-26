@@ -1,1 +1,2 @@
-mongo:4.4.29
+grafana/loki:latest
+grafana/promtail:3.0.0
