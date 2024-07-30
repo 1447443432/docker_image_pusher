@@ -18,3 +18,5 @@ python:3.6.15-alpine
 python:3.9-alpine
 frooodle/s-pdf:latest
 mongo:4.4.29
+grafana/loki:latest
+grafana/promtail:3.0.0

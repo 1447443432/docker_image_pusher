@@ -1,2 +1,1 @@
-grafana/loki:latest
-grafana/promtail:3.0.0
+mydlqclub/dnsutils:1.3
