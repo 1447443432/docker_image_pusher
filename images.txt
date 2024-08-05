@@ -1,2 +1,1 @@
-appropriate/curl
-mapitman/bind-utils
+grafana/grafana:10.1.1
