@@ -1,1 +1,2 @@
-mydlqclub/dnsutils:1.3
+appropriate/curl
+mapitman/bind-utils
