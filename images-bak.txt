@@ -23,3 +23,4 @@ grafana/promtail:3.0.0
 mydlqclub/dnsutils:1.3
 appropriate/curl
 mapitman/bind-utils
+grafana/grafana:10.1.1
