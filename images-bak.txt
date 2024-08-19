@@ -25,6 +25,8 @@ appropriate/curl
 mapitman/bind-utils
 grafana/grafana:10.1.1
 python:3.12.2-alpine
+minio/minio
+
 
 # 手动推送的
 registry.cn-shanghai.aliyuncs.com/jing-images/mtools:latest
