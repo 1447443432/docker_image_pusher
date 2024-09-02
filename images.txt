@@ -1,1 +1,2 @@
-prom/blackbox-exporter:latest
+grafana/grafana
+prom/prometheus
