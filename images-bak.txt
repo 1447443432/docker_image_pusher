@@ -28,6 +28,8 @@ python:3.12.2-alpine
 minio/minio
 quay.io/minio/minio:RELEASE.2023-11-01T01-57-10Z-cpuv1
 prom/blackbox-exporter:latest
+grafana/grafana
+prom/prometheus
 
 # 手动推送的
 registry.cn-shanghai.aliyuncs.com/jing-images/mtools:latest
