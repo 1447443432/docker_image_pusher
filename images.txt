@@ -1,1 +1,1 @@
-prom/node-exporter
+prom/prometheus:2.32.1
