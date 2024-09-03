@@ -30,6 +30,7 @@ quay.io/minio/minio:RELEASE.2023-11-01T01-57-10Z-cpuv1
 prom/blackbox-exporter:latest
 grafana/grafana
 prom/prometheus
+prom/node-exporter
 
 # 手动推送的
 registry.cn-shanghai.aliyuncs.com/jing-images/mtools:latest
