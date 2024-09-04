@@ -31,6 +31,7 @@ prom/blackbox-exporter:latest
 grafana/grafana
 prom/prometheus
 prom/node-exporter
+prom/prometheus:v2.32.1
 
 # 手动推送的
 registry.cn-shanghai.aliyuncs.com/jing-images/mtools:latest
