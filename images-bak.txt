@@ -34,6 +34,7 @@ prom/node-exporter
 prom/alertmanager
 prom/prometheus:v2.32.1
 prom/alertmanager
+prom/node-exporter
 
 # 手动推送的
 registry.cn-shanghai.aliyuncs.com/jing-images/mtools:latest
