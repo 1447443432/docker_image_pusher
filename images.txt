@@ -1,2 +1,1 @@
---platform=linux/amd64 netdata/netdata:latest
---platform=linux/arm/v7 netdata/netdata:latest
+prom/prometheus:v2.32.1
