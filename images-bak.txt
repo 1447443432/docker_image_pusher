@@ -39,6 +39,8 @@ prom/node-exporter
 --platform=linux/arm/v7 netdata/netdata:latest
 prom/prometheus:v2.32.1
 sigoden/dufs
+--platform=linux/amd64 alpine:3.20.3
+--platform=linux/arm/v7 alpine:3.20.3
 
 # 手动推送的
 registry.cn-shanghai.aliyuncs.com/jing-images/mtools:latest
