@@ -1,2 +1,1 @@
---platform=linux/amd64 alpine:3.20.3
---platform=linux/arm/v7 alpine:3.20.3
+
