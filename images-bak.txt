@@ -44,3 +44,4 @@ sigoden/dufs
 
 # 手动推送的
 registry.cn-shanghai.aliyuncs.com/jing-images/mtools:latest
+registry.cn-shanghai.aliyuncs.com/jing-images/linux-tools-amd64:1.0-alpine
