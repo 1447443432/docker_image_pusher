@@ -72,6 +72,17 @@ docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 stirlingtools/stirling-pdf:latest
 
+# k8s
+k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-apiserver:v1.29.0
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-controller-manager:v1.29.0
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler:v1.29.0
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-proxy:v1.29.0
+registry.cn-hangzhou.aliyuncs.com/google_containers/coredns:v1.11.1
+registry.cn-hangzhou.aliyuncs.com/google_containers/pause:3.9
+registry.cn-hangzhou.aliyuncs.com/google_containers/etcd:3.5.10-0
+
+
 
 # 手动推送的
 registry.cn-shanghai.aliyuncs.com/jing-images/mtools:latest
