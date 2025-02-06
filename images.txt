@@ -1,1 +1,1 @@
-grafana/grafana-image-renderer:latest
+python:latest
