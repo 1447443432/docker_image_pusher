@@ -71,6 +71,7 @@ docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 stirlingtools/stirling-pdf:latest
+grafana/grafana-image-renderer:latest
 
 # k8s
 k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
