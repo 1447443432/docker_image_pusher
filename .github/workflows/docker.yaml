@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
+    paths:
+      - 'images.txt'  # 仅在 images.txt 文件变动时触发流程
   schedule:
     - cron: '00 23 * * *'
 
