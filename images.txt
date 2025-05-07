@@ -1,1 +1,2 @@
-registry:2
+flannel/flannel:v0.20.1
+flannel/flannel:v0.26.7
