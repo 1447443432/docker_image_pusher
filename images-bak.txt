@@ -74,9 +74,9 @@ stirlingtools/stirling-pdf:latest
 grafana/grafana-image-renderer:latest
 python:alpine
 registry:2
-registry:2
-flannel/flannel:v0.20.1
-flannel/flannel:v0.26.7
+
+registry:2istio/proxyv2:1.25.2
+istio/pilot:1.25.2
 
 
 # k8s
